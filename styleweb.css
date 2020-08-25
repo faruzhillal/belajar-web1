@@ -1,0 +1,37 @@
+h1 {
+    color:red;
+    font-family: sans-serif;
+    font-size: 30px;
+    background-color: blue;
+}
+
+h2 {
+    color:rgb(255, 251, 0);
+    font-family: sans-serif;
+    font-size: 20px;
+    background-image: url(https://image.shutterstock.com/image-vector/abstract-geometric-pattern-lines-rhombuses-260nw-573952828.jpg);
+    background-size: auto;
+}
+
+p {
+    color:rgb(255, 145, 0); 
+    font-family: sans-serif;
+    font-size: small;
+}
+
+img {
+    width: 200PX;
+    height: 100px;
+}
+
+li {
+    color: rgb(255, 145, 0);
+    list-style: none;
+}
+
+.faruz {
+    color: rgb(0, 28, 112);
+    font-family: serif;
+    size: 40px;
+}
+
